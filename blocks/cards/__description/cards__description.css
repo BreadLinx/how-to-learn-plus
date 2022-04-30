@@ -1,0 +1,15 @@
+.cards__description {
+    text-align: center;
+    margin: 0 0 60px 0;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+.cards__item:nth-child(4) .cards__description {
+  margin-bottom: 0;
+}
+
+.cards__item:nth-child(5) .cards__description {
+  margin-bottom: 0;
+}

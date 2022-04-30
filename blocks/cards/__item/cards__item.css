@@ -1,0 +1,18 @@
+.cards__item {
+    width: calc((100% - 200px)/3);
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+  }
+
+.cards__item:nth-child(1) {
+  margin-right: 100px;
+}
+
+.cards__item:nth-child(2) {
+  margin-right: 100px;
+}
+
+.cards__item:nth-child(4) {
+  margin-right: 100px;
+}
